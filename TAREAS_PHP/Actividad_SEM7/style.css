@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+form{
+    background-color: rgb(63, 177, 160);
+    width: 50%;
+    height: auto;
+    margin-top: 100px;
+    margin-left: 25%;
+    border-radius: 25px;
+
+}
+
+p{
+    text-align: center;
+    font-size: 30px;  
+    padding: 10px;
+    background-color: rgb(25, 80, 73);
+    color: white;
+    border-radius: 25px 25px 0px 0px;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 25px;
+    margin: 15px;
+    color: white;
+    
+}
+input{
+    width: 80px;
+    height: 30px;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+
+}
+.input__valor{
+    width: 120px;
+    height: 30px;
+    margin: 0 auto;
+    display: block;
+}
+
+.resultado{
+    width: 50%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 25%;
+    background-color: rgb(63, 177, 160);
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+
+}
